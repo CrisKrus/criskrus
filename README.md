@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cristian Suarez Dev</h1>
 <h3 align="center">A developer that loves learning</h3>
 
-- 👨‍💻 All of my projects are available at [criskrus.com](criskrus.com)
+- 👨‍💻 All of my projects are available at [cristiansuarez.dev](https://www.cristiansuarez.dev/)
 
 - 📫 How to reach me **mail@criskrus.com**
 
@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/criskrus995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="criskrus995" height="30" width="40" /></a>
 <a href="https://instagram.com/cristian_suarez_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cristian_suarez_dev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cristian suarez sin cortes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cristian suarez sin cortes" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@cristian_suarez_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cristian suarez youtube" height="30" width="40" /></a>
 </p>
 
 
