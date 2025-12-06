@@ -37,19 +37,6 @@ I'm a software developer passionate about creating innovative solutions and cont
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CrisKrus&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Cristian's GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisKrus&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CrisKrus&theme=radical&hide_border=true" alt="GitHub Streak">
-</p>
-
----
-
 ## 🌐 Connect with me
 
 <p align="left">
