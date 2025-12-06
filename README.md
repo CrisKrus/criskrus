@@ -40,12 +40,12 @@ I'm a software developer passionate about creating innovative solutions and cont
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=criskrus&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Cristian's GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=criskrus&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=CrisKrus&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Cristian's GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisKrus&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=criskrus&theme=radical&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CrisKrus&theme=radical&hide_border=true" alt="GitHub Streak">
 </p>
 
 ---
@@ -56,7 +56,7 @@ I'm a software developer passionate about creating innovative solutions and cont
 <a href="https://twitter.com/criskrus995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="criskrus995" height="30" width="40" /></a>
 <a href="https://instagram.com/cristian_suarez_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cristian_suarez_dev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@cristian_suarez_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cristian suarez youtube" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/criskrus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="criskrus" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cristian-suarez-vera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristian-suarez-vera" height="30" width="40" /></a>
 </p>
 
 ---
@@ -74,7 +74,7 @@ If you find my content helpful and want to support my work, you can buy me a cof
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=criskrus&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=CrisKrus&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <!--
